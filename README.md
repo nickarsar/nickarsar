@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I’m Yevgeniy, backend developer and engineer
 
 <!--
 **nickarsar/nickarsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
